@@ -1,6 +1,6 @@
 tun2socks
 =========
-[![Build Status](https://travis-ci.org/Hmyy/tun2socks.svg?branch=master)](https://travis-ci.org/Hmyy/tun2socks) [![GitHub release](https://img.shields.io/github/release/Hmyy/tun2socks.svg?maxAge=3600)](https://github.com/Hmyy/tun2socks/releases) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![GitHub license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg)](https://raw.githubusercontent.com/Hmyy/NEKit/master/LICENSE.md)
+[![Build Status](https://travis-ci.org/CoderQuinn/tun2socks.svg?branch=master)](https://travis-ci.org/CoderQuinn/tun2socks) [![GitHub release](https://img.shields.io/github/release/CoderQuinn/tun2socks.svg?maxAge=3600)](https://github.com/CoderQuinn/tun2socks/releases) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![GitHub license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg)](https://raw.githubusercontent.com/CoderQuinn/NEKit/master/LICENSE.md)
 
 tun2socks is designed to work with the NetworkExtension framework. It is based on the latest stable lwip with minimal modification.
 
@@ -33,7 +33,7 @@ Fully documented API reference can be found [here](https://zhuhaow.github.io/tun
 [Carthage](https://github.com/Carthage/Carthage) is recommended to integrate tun2socks by adding
 
 ```
-github "Hmyy/tun2socks"
+github "CoderQuinn/tun2socks"
 ```
 
 to the `Cartfile`.
